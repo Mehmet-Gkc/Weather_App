@@ -1,13 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
-
+/*
 body {
-  background-color: #f0f0f0; /* Çok açık bir gri */
+  background-color: #f0f0f0; 
   margin: 0;
   font-family: Arial, sans-serif;
 }
 
 .weather-container {
-  background-color: #fff; /* Beyaz arka plan */
+  background-color: #fff; 
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   max-width: 400px;
@@ -17,7 +16,7 @@ body {
 }
 
 .app-title {
-  color: #333; /* Koyu gri metin rengi */
+  color: #333; 
   font-family: 'Boogaloo', cursive;
   margin-top: 10px;
 }
@@ -31,7 +30,7 @@ body {
 }
 
 .city-input::placeholder {
-  color: #999; /* Gri placeholder metin rengi */
+  color: #999; 
 }
 
 input[type="text"] {
@@ -42,13 +41,13 @@ input[type="text"] {
   margin-top: 10px;
 }
 
-/* Hava durumu ikonunu stilize etme */
+
 .weather-icon {
   font-size: 50px;
-  color: grey; /* Gri ikon rengi */
+  color: grey; 
 }
 
-/* Hava durumu bilgilerini stilize etme */
+
 .weather-info {
   font-size: 18px;
   margin-top: 10px;
@@ -62,4 +61,4 @@ input[type="text"] {
   font-weight: bold;
   font-size: 24px;
   margin-bottom: 20px;
-}
+} */

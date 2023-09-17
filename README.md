@@ -16,6 +16,7 @@
   - GitHub: 
   - LinkedIn: 
 - Used Tools
+  - _Tailwind_
   - _Fonts_
   - _Design_
   - _Icons_
@@ -34,6 +35,7 @@ You can learn the weather information of any province you want in degrees.
 - [ ] _SCSS_
 - [x] _JavaScript_
 - [x] _React_
+- [x] _Tailwind_
 - [ ] _Bootstrap_
 - [x] _npm_
 - [ ] _..._
@@ -51,6 +53,7 @@ LinkedIn: https://www.linkedin.com/in/mehmet-g%C3%B6kce-63ba9a254/(#)
 ### Used Tools
 
 - [icons](https://react-icons.github.io/react-icons/icons?name=fa)
+- [tailwind](https://tailwindcss.com/docs/guides/create-react-app)
 - [npm](https://www.npmjs.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)

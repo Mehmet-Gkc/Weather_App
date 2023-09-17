@@ -21,7 +21,7 @@ function Weather({ city }){
         <>
              {loading ?
                 <> Wetter wird geladen </> :
-                <div className="weather-info"> <span className="weather-description ">{city}</span>  hat die Temperatur <span className="weather-temperature">{currentTemp}!</span>  </div>
+                <div className="weather-info text-xl my-3 font-genumu"> <span className="weather-description italic px-2 uppercase text-bakir">{city}</span>  hat die Temperatur <span className="weather-temperature font-bold">{currentTemp}!</span>  </div>
             }
         </>
     )

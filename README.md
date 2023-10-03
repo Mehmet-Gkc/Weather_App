@@ -4,7 +4,7 @@
 
 ---
 
-![Screenshot from Project](./src/assets/weatherapp.png)
+![Screenshot from Project](./src/assets/WeatherApp.png)
 
 #### Navigation
 
@@ -29,16 +29,12 @@ You can learn the weather information of any province you want in degrees.
 
 ##### Developed With
 
-- [x] _HTML5_
-- [x] _CSS3_
-- [ ] _SASS_
-- [ ] _SCSS_
+- [x] _HTML_
+- [x] _CSS_
 - [x] _JavaScript_
 - [x] _React_
 - [x] _Tailwind_
-- [ ] _Bootstrap_
 - [x] _npm_
-- [ ] _..._
 
 ---
 
@@ -61,4 +57,4 @@ LinkedIn: https://www.linkedin.com/in/mehmet-g%C3%B6kce-63ba9a254/(#)
 
 ---
 
-Made with ❤️ by me
+Made with Mehmet Gökce

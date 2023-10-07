@@ -18,8 +18,8 @@ function Form() {
     };
 
   return (
-    <div className="container flex flex-col justify-center items-center mt-11">
-      <h1 className="text-8xl font-boogaloo text-bakir text-center uppercase">
+    <div className="h-full flex flex-col justify-center items-center mt-11">
+      <h1 className="text-3xl font-boogaloo text-bakir text-center uppercase sm:text-4xl md:text-6xl xl:text-9xl">
         Weather App
       </h1>
       <form
@@ -41,8 +41,8 @@ function Form() {
         </button>
       </form>
 
-      <div className="text-8xl text-white flex m-3 p-3">
-        <FaCloudSunRain className="" /> <br />
+      <div className="text-4xl text-white flex m-3 p-3 sm:text-5xl md:text-7xl xl:text-9xl">
+        <FaCloudSunRain /> <br />
       </div>
 
       <Info info={info} loading={loading}/>

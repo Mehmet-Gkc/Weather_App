@@ -8,7 +8,7 @@ function Info({ info, loading }) {
       {loading ? (
         <p>please enter a city</p>
       ) : (
-        <div className="text-5xl font-bold font-genumu">
+        <div className="text-2xl font-bold font-genumu sm:text-4xl md:text-6xl xl:text-8xl">
           <p className="italic px-2 capitalize text-bakir text-center">
             {info.name}, {info.sys.country}
           </p>

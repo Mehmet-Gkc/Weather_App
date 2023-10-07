@@ -1,6 +1,6 @@
 ## Weather App
 
-**[Test this app yourself](github.io)**
+**[Test this app yourself](https://resilient-bienenstitch-6a40dc.netlify.app/)**
 
 ---
 

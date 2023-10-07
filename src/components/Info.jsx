@@ -6,7 +6,7 @@ function Info({ info, loading }) {
   return (
     <>
       {loading ? (
-        <p>please enter a city</p>
+        <p className="text-white text-xl mt-5 uppercase italic">please enter a city</p>
       ) : (
         <div className="text-2xl font-bold font-genumu sm:text-4xl md:text-6xl xl:text-8xl">
           <p className="italic px-2 capitalize text-bakir text-center">
